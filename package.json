@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "sass": "^1.63.4"
+  }
+}
